@@ -11,9 +11,9 @@
 
 ## Overview
 
-The **LLM Governance Framework** is an open-source toolkit designed to help financial institutions responsibly deploy, monitor, and audit Large Language Models (LLMs) and AI systems. It provides structured templates, checklists, and lightweight tooling grounded in internationally recognized standards and Malaysian regulatory requirements.
+The **LLM Governance Framework** is an open source toolkit designed to help financial institutions responsibly deploy, monitor, and audit Large Language Models (LLMs) and AI systems. It provides structured templates, checklists, and lightweight tooling grounded in internationally recognized standards and Malaysian regulatory requirements.
 
-This framework addresses the complete AI lifecycle — from initial risk assessment and vendor due diligence, through model deployment and bias auditing, to incident response and ongoing governance oversight.
+This framework addresses the complete AI lifecycle from initial risk assessment and vendor due diligence, through model deployment and bias auditing, to incident response and ongoing governance oversight.
 
 ---
 
